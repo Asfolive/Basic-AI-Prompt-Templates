@@ -1,4 +1,4 @@
-🧠 Modelos de Prompts Básicos para IA
+🧠 Modelos de Prompts Básicos para IA.
 Este repositório contém modelos de prompts básicos para diferentes tarefas com Inteligência Artificial.
 
 📌 Categorias de Prompts
